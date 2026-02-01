@@ -13,7 +13,7 @@ The Titanic dataset includes details such as passenger age, gender, class, fare,
 
 ## Project Structure
 - `DataFrameOperations.R` – Data analysis script
-- `data/` – Dataset files
+- `data/titanic_data.csv` – Dataset files
 - `README.md` – Project documentation
 
 ## Key Learnings
