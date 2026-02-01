@@ -1,2 +1,23 @@
-# titanic-eda-with-r-tidyverse
-This repository contains an exploratory data analysis of the Titanic dataset using R and the tidyverse. The project focuses on gaining basic insights into passenger survival patterns. It is intended for learning and practicing data analysis concepts in R.
+# Titanic Survivor Analysis Using R (tidyverse)
+
+This project performs exploratory data analysis on the Titanic dataset using R and the tidyverse. 
+The objective is to understand passenger survival patterns through data cleaning and visualization.
+
+## Dataset
+The Titanic dataset includes details such as passenger age, gender, class, fare, and survival status.
+
+## Tools Used
+- R
+- RStudio
+- tidyverse
+
+## Project Structure
+- `DataFrameOperations.R` – Data analysis script
+- `data/` – Dataset files
+- `README.md` – Project documentation
+
+## Key Learnings
+- Exploratory data analysis
+
+## Author
+- Shrutha Prakash
